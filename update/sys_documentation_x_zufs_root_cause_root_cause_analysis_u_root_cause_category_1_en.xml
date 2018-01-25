@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_root_cause_category_1" label="Root Cause Category 1" language="en" table="x_zufs_root_cause_root_cause_analysis">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_root_cause_category_1</element>
+            <help/>
+            <hint/>
+            <label>Root Cause Category 1</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <plural>Root Cause Category 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:52:32</sys_created_on>
+            <sys_id>1e81286ddbda0300801dfd651d96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Root Cause Category 1</sys_name>
+            <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
+            <sys_update_name>sys_documentation_x_zufs_root_cause_root_cause_analysis_u_root_cause_category_1_en</sys_update_name>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:52:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

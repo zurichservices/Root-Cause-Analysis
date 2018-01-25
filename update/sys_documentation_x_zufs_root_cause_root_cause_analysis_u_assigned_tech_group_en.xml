@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_assigned_tech_group" label="Assigned Technical Group" language="en" table="x_zufs_root_cause_root_cause_analysis">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_assigned_tech_group</element>
+            <help/>
+            <hint/>
+            <label>Assigned Technical Group</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <plural>Assigned Technical Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
+            <sys_id>30c57f9fdbfe8300801dfd651d96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned Technical Group</sys_name>
+            <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
+            <sys_update_name>sys_documentation_x_zufs_root_cause_root_cause_analysis_u_assigned_tech_group_en</sys_update_name>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

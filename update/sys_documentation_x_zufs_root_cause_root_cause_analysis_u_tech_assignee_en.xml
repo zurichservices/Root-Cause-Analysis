@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_tech_assignee" label="Technical Assignee" language="en" table="x_zufs_root_cause_root_cause_analysis">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_tech_assignee</element>
+            <help/>
+            <hint/>
+            <label>Technical Assignee</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <plural>Technical Assignees</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
+            <sys_id>3cc57f9fdbfe8300801dfd651d961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Technical Assignee</sys_name>
+            <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
+            <sys_update_name>sys_documentation_x_zufs_root_cause_root_cause_analysis_u_tech_assignee_en</sys_update_name>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

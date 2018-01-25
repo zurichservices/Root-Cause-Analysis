@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_root_cause_category_1" table="x_zufs_root_cause_root_cause_analysis" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>10</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16b1ac6ddbda0300801dfd651d961996</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-12-07 19:35:12</sys_updated_on>
+            <value>application</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Center Foundations</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>20</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fe1a46ddbda0300801dfd651d961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:54:13</sys_updated_on>
+            <value>data_center_foundations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>30</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:54:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66f16c2ddbda0300801dfd651d9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-12-07 19:37:42</sys_updated_on>
+            <value>network</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Platform</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>40</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:54:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2022c6ddbda0300801dfd651d9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:54:44</sys_updated_on>
+            <value>platform</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security Services</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>50</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:55:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9022a86ddbda0300801dfd651d96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:55:07</sys_updated_on>
+            <value>security_services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Workplace &amp; Mobility</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>60</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:55:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c422c6ddbda0300801dfd651d9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:55:40</sys_updated_on>
+            <value>workplace_mobility</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_root_cause_category_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unknown</label>
+            <language>en</language>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sequence>70</sequence>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:55:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af42a0addbda0300801dfd651d961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:55:54</sys_updated_on>
+            <value>unknown</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_root_cause_category_1</element>
+            <name>x_zufs_root_cause_root_cause_analysis</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kp.admin</sys_created_by>
+            <sys_created_on>2017-11-07 16:53:37</sys_created_on>
+            <sys_id>86c12c6ddbda0300801dfd651d961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_root_cause_category_1</sys_name>
+            <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
+            <sys_update_name>sys_choice_x_zufs_root_cause_root_cause_analysis_u_root_cause_category_1</sys_update_name>
+            <sys_updated_by>kp.admin</sys_updated_by>
+            <sys_updated_on>2017-11-07 16:53:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

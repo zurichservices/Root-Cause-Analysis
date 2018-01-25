@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Root Cause Analysis" max_length="40" name="x_zufs_root_cause_root_cause_analysis" type="collection">
+        <element label="Assigned Technical Group" max_length="32" name="u_assigned_tech_group" reference="sys_user_group" type="reference"/>
+        <element label="Contributing Factors" max_length="500" name="u_contributing_factors" type="string"/>
+        <element label="Known Error" max_length="40" name="u_known_error" type="boolean"/>
+        <element label="Solution" max_length="1000" name="u_long_term_solution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Monitoring Details" max_length="4000" name="u_monitoring_details" type="string"/>
+        <element attributes="javascript:getNextObjNumber();" default="javascript:getNextObjNumber();" dynamic_default_value="8acb83a85f220100a9ad2572f2b47741" label="Number" max_length="40" name="u_number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Problem" mandatory="true" max_length="32" name="u_problem" reference="problem" type="reference"/>
+        <element label="Problem.PriorityX" max_length="32" name="u_problemu_prob_priority" reference="dl_problem_priority" type="reference"/>
+        <element label="Problem CI" max_length="32" name="u_problem_ci" reference="cmdb_ci" type="reference"/>
+        <element label="Problem Tasks" max_length="32" name="u_problem_tasks" reference="problem_task" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Problem.Priority" max_length="40" name="u_prob_priority" type="string"/>
+        <element choice="1" label="Root Cause Category 1" mandatory="true" max_length="40" name="u_root_cause_category_1" type="choice">
+            <choice>
+                <element label="Application" sequence="10" value="application"/>
+                <element label="Data Center Foundations" sequence="20" value="data_center_foundations"/>
+                <element label="Network" sequence="30" value="network"/>
+                <element label="Platform" sequence="40" value="platform"/>
+                <element label="Security Services" sequence="50" value="security_services"/>
+                <element label="Workplace &amp; Mobility" sequence="60" value="workplace_mobility"/>
+                <element label="Unknown" sequence="70" value="unknown"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="u_root_cause_category_1" dependent_on_field="u_root_cause_category_1" label="Root Cause Category 2" mandatory="true" max_length="40" name="u_root_cause_category_2" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="data_center_foundations"/>
+                <element dependent_value="data_center_foundations" label="Backup Foundation Services" sequence="10" value="backup_foundation_services"/>
+                <element dependent_value="security_services" label="Certificate Management" sequence="20" value="certificate_management"/>
+                <element dependent_value="workplace_mobility" label="Citrix" sequence="30" value="citrix"/>
+                <element dependent_value="application" label="Code" sequence="40" value="code"/>
+                <element dependent_value="security_services" label="Confidential Data" sequence="50" value="confidential_data"/>
+                <element dependent_value="application" label="Database" sequence="60" value="database"/>
+                <element dependent_value="network" label="DC Connectivity" sequence="70" value="DC_connectivity"/>
+                <element dependent_value="security_services" label="DDI" sequence="80" value="ddi"/>
+                <element dependent_value="workplace_mobility" label="Desktop Physical" sequence="90" value="desktop_physical"/>
+                <element dependent_value="platform" label="Dynamic Private Cloud x86" sequence="100" value="dynamic_private_cloud_x86"/>
+                <element dependent_value="security_services" label="Endpoint Protection" sequence="110" value="endpoint_protection"/>
+                <element dependent_value="security_services" label="Firewall Management" sequence="120" value="firewall_management"/>
+                <element dependent_value="security_services" label="Identity &amp; Access Management" sequence="130" value="identity_access_management"/>
+                <element dependent_value="network" label="IPT" sequence="140" value="ipt"/>
+                <element dependent_value="workplace_mobility" label="Mail &amp; Messsaging" sequence="150" value="mail_messsaging"/>
+                <element dependent_value="data_center_foundations" label="Mainframe Platform" sequence="160" value="mainframe_platform"/>
+                <element dependent_value="data_center_foundations" label="Midrange Platform" sequence="170" value="midrange_platform"/>
+                <element dependent_value="workplace_mobility" label="MobileIron &amp; Traveller" sequence="180" value="mobileIron_traveller"/>
+                <element dependent_value="data_center_foundations" label="Oracle Database Platform" sequence="190" value="oracle_database_platform"/>
+                <element dependent_value="platform" label="Oracle Infrastructure for Leapfrog" sequence="200" value="oracle_infrastructure_for_leapfrog"/>
+                <element dependent_value="platform" label="Public Cloud Platform Amazon" sequence="210" value="public_cloud_platform_amazon"/>
+                <element dependent_value="network" label="Secure External Connectivity" sequence="220" value="secure_external_connectivity"/>
+                <element dependent_value="workplace_mobility" label="Service Desk Services" sequence="230" value="service_desk_services"/>
+                <element dependent_value="platform" label="Shared Websphere Platform" sequence="240" value="shared_websphere_platform"/>
+                <element dependent_value="platform" label="Standard ISP Platfrom x86" sequence="250" value="standard_isp_platfrom_x86"/>
+                <element dependent_value="data_center_foundations" label="Storage Foundation Services" sequence="260" value="storage_foundation_services"/>
+                <element dependent_value="security_services" label="Tech Ops" sequence="270" value="tech_ops"/>
+                <element dependent_value="network" label="Third Party Connectivity" sequence="280" value="third_party_connectivity"/>
+                <element dependent_value="security_services" label="VPN &amp; RSA" sequence="290" value="vpn_rsa"/>
+                <element dependent_value="network" label="WAN" sequence="300" value="wan"/>
+                <element dependent_value="security_services" label="Web Proxy" sequence="310" value="web_proxy"/>
+                <element dependent_value="network" label="Wired LAN" sequence="320" value="wired_lan"/>
+                <element dependent_value="network" label="Wireless" sequence="330" value="wireless"/>
+                <element dependent_value="data_center_foundations" label="x86 Platform" sequence="340" value="x86_platform"/>
+            </choice>
+        </element>
+        <element choice="1" label="Root Cause Category 3" mandatory="true" max_length="40" name="u_root_cause_category_3" type="choice" use_dependent_field="true">
+            <choice>
+                <element label="Capacity" sequence="0" value="Capacity"/>
+                <element label="Change" sequence="1" value="Change"/>
+                <element label="Configuration" sequence="2" value="Configuration"/>
+                <element label="Decommission" sequence="3" value="Decommission"/>
+                <element label="Design" sequence="4" value="Design"/>
+                <element label="Maitenance" sequence="5" value="maitenance"/>
+                <element label="Out of Support" sequence="6" value="out_of_support"/>
+                <element label="Process/Procedure" sequence="7" value="process_procedure"/>
+                <element label="Resilience" sequence="8" value="Resilience"/>
+                <element label="Software" sequence="9" value="Software"/>
+                <element label="Unauthorized Change" sequence="10" value="unauthorized_change"/>
+                <element label="Upgrade" sequence="11" value="Upgrade"/>
+            </choice>
+        </element>
+        <element label="Root Cause Date" max_length="40" name="u_root_cause_date" type="glide_date_time"/>
+        <element label="Root Cause Description" mandatory="true" max_length="500" name="u_root_cause_description" type="string"/>
+        <element label="Root Cause Due Date" max_length="40" name="u_root_cause_due_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_state" type="string">
+            <choice>
+                <element label="Implementation" sequence="0" value="10"/>
+                <element label="Resolved" sequence="1" value="11"/>
+                <element label="Closed" sequence="2" value="12"/>
+                <element label="Cancelled" sequence="3" value="13"/>
+                <element label="Draft" sequence="4" value="8"/>
+                <element label="Investigation" sequence="5" value="9"/>
+            </choice>
+        </element>
+        <element attributes="ref_ac_columns_search=true,ref_ac_columns=email;u_myid;u_gad_id" dependent="u_assigned_group" dependent_on_field="u_assigned_group" label="Technical Assignee" max_length="32" name="u_tech_assignee" reference="sys_user" reference_qual="javascript:GetAssignedUsers(current.u_approval_group);" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
+        <element label="Workaround" mandatory="true" max_length="1000" name="u_workaround" type="string"/>
+        <index name="index">
+            <element name="u_problem_tasks"/>
+        </index>
+        <index name="index2">
+            <element name="u_tech_assignee"/>
+        </index>
+        <index name="index3">
+            <element name="u_problem"/>
+        </index>
+        <index name="index4">
+            <element name="u_assigned_tech_group"/>
+        </index>
+        <index name="index5">
+            <element name="u_problemu_prob_priority"/>
+        </index>
+        <index name="index6">
+            <element name="u_problem_ci"/>
+        </index>
+    </element>
+</database>
