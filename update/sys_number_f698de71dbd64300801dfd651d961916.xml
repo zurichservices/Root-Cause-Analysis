@@ -4,18 +4,18 @@
         <category display_value="" name="x_zufs_root_cause_root_cause_analysis">x_zufs_root_cause_root_cause_analysis</category>
         <maximum_digits>7</maximum_digits>
         <number>10001</number>
-        <prefix>RCA</prefix>
+        <prefix>RC</prefix>
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>kp.admin</sys_created_by>
         <sys_created_on>2017-11-08 20:11:14</sys_created_on>
         <sys_id>f698de71dbd64300801dfd651d961916</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>RCA</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>RC</sys_name>
         <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
         <sys_policy/>
         <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
         <sys_update_name>sys_number_f698de71dbd64300801dfd651d961916</sys_update_name>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2017-11-08 20:15:20</sys_updated_on>
+        <sys_updated_on>2018-01-31 13:51:52</sys_updated_on>
     </sys_number>
 </record_update>
