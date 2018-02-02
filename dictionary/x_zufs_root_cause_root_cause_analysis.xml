@@ -91,7 +91,7 @@
                 <element label="Investigation" sequence="5" value="9"/>
             </choice>
         </element>
-        <element attributes="ref_ac_columns_search=true,ref_ac_columns=email;u_myid;u_gad_id" dependent="u_assigned_group" dependent_on_field="u_assigned_group" label="Technical Assignee" max_length="32" name="u_tech_assignee" reference="sys_user" reference_qual="javascript:GetAssignedUsers(current.assignment_group);" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
+        <element attributes="ref_ac_columns_search=true,ref_ac_columns=email;u_myid;u_gad_id" dependent="u_assigned_tech_group" dependent_on_field="u_assigned_tech_group" label="Technical Assignee" max_length="32" name="u_tech_assignee" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element label="Workaround" mandatory="true" max_length="1000" name="u_workaround" type="string"/>
         <index name="index">
             <element name="u_problem_tasks"/>
