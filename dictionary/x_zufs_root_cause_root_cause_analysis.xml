@@ -12,7 +12,7 @@
         <element label="Problem CI" max_length="32" name="u_problem_ci" reference="cmdb_ci" type="reference"/>
         <element label="Problem Tasks" max_length="32" name="u_problem_tasks" reference="problem_task" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Problem.Priority" max_length="40" name="u_prob_priority" type="string"/>
-        <element choice="1" label="Root Cause Category 1" mandatory="true" max_length="40" name="u_root_cause_category_1" type="choice">
+        <element choice="1" label="Root Cause Category 1" max_length="40" name="u_root_cause_category_1" type="choice">
             <choice>
                 <element label="Application" sequence="10" value="application"/>
                 <element label="Data Center Foundations" sequence="20" value="data_center_foundations"/>
@@ -23,7 +23,7 @@
                 <element label="Unknown" sequence="70" value="unknown"/>
             </choice>
         </element>
-        <element choice="1" dependent="u_root_cause_category_1" dependent_on_field="u_root_cause_category_1" label="Root Cause Category 2" mandatory="true" max_length="40" name="u_root_cause_category_2" type="choice" use_dependent_field="true">
+        <element choice="1" dependent="u_root_cause_category_1" dependent_on_field="u_root_cause_category_1" label="Root Cause Category 2" max_length="40" name="u_root_cause_category_2" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="data_center_foundations"/>
                 <element dependent_value="data_center_foundations" label="Backup Foundation Services" sequence="10" value="backup_foundation_services"/>
@@ -62,7 +62,7 @@
                 <element dependent_value="data_center_foundations" label="x86 Platform" sequence="340" value="x86_platform"/>
             </choice>
         </element>
-        <element choice="1" label="Root Cause Category 3" mandatory="true" max_length="40" name="u_root_cause_category_3" type="choice" use_dependent_field="true">
+        <element choice="1" label="Root Cause Category 3" max_length="40" name="u_root_cause_category_3" type="choice" use_dependent_field="true">
             <choice>
                 <element label="Capacity" sequence="0" value="Capacity"/>
                 <element label="Change" sequence="1" value="Change"/>
@@ -79,7 +79,7 @@
             </choice>
         </element>
         <element label="Root Cause Date" max_length="40" name="u_root_cause_date" type="glide_date_time"/>
-        <element label="Root Cause Description" mandatory="true" max_length="500" name="u_root_cause_description" type="string"/>
+        <element label="Root Cause Description" max_length="500" name="u_root_cause_description" type="string"/>
         <element label="Root Cause Due Date" max_length="40" name="u_root_cause_due_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_state" type="string">
             <choice>

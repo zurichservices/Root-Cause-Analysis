@@ -32,7 +32,7 @@
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="Choice">choice</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_zufs_root_cause_root_cause_analysis</name>
         <next_element/>
@@ -53,14 +53,14 @@
         <sys_created_by>kp.admin</sys_created_by>
         <sys_created_on>2017-11-07 16:20:22</sys_created_on>
         <sys_id>960a1c69dbda0300801dfd651d9619ae</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Root Cause Category 3</sys_name>
         <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
         <sys_policy/>
         <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
         <sys_update_name>sys_dictionary_x_zufs_root_cause_root_cause_analysis_u_root_cause_category_3</sys_update_name>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2017-12-08 15:56:12</sys_updated_on>
+        <sys_updated_on>2018-02-08 14:04:05</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
