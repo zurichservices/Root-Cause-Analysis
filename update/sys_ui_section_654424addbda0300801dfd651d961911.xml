@@ -5,13 +5,13 @@
             <element>u_number</element>
             <position>0</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>01c5bf9fdbfe8300801dfd651d961950</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>d2062b24dbd49b00801dfd651d961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_problem</element>
             <position>1</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>85c5bf9fdbfe8300801dfd651d961950</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>da062b24dbd49b00801dfd651d961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_problem_ci</element>
             <position>2</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>09c5bf9fdbfe8300801dfd651d961950</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>5e062b24dbd49b00801dfd651d961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>u_assigned_tech_group</element>
             <position>3</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>89c5bf9fdbfe8300801dfd651d961950</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>de062b24dbd49b00801dfd651d961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_tech_assignee</element>
             <position>4</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>0dc5bf9fdbfe8300801dfd651d961950</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>52062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>u_known_error</element>
             <position>5</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>8dc5bf9fdbfe8300801dfd651d961950</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>d2062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,153 +89,139 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>01c5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>56062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_state</element>
+            <element>u_root_cause_date</element>
             <position>7</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>81c5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>d6062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_root_cause_date</element>
-            <position>8</position>
-            <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>05c5bf9fdbfe8300801dfd651d961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
-            <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_root_cause_category_1</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>85c5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>5a062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_root_cause_category_2</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>09c5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>da062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_root_cause_category_3</element>
-            <position>11</position>
+            <position>10</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>89c5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>5e062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>0dc5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>de062b24dbd49b00801dfd651d961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_root_cause_description</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>8dc5bf9fdbfe8300801dfd651d961951</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>52062b24dbd49b00801dfd651d961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_contributing_factors</element>
-            <position>14</position>
+            <position>13</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>01c5bf9fdbfe8300801dfd651d961952</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>d2062b24dbd49b00801dfd651d961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_monitoring_details</element>
-            <position>15</position>
+            <position>14</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>81c5bf9fdbfe8300801dfd651d961952</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>56062b24dbd49b00801dfd651d961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_long_term_solution</element>
-            <position>16</position>
+            <position>15</position>
             <sys_created_by>kp.admin</sys_created_by>
-            <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-            <sys_id>05c5bf9fdbfe8300801dfd651d961952</sys_id>
+            <sys_created_on>2018-02-12 14:42:42</sys_created_on>
+            <sys_id>d6062b24dbd49b00801dfd651d961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_zufs_root_cause_root_cause_analysis" sys_domain="global" view="Default view">654424addbda0300801dfd651d961911</sys_ui_section>
             <sys_updated_by>kp.admin</sys_updated_by>
-            <sys_updated_on>2017-12-08 15:20:31</sys_updated_on>
+            <sys_updated_on>2018-02-12 14:42:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
