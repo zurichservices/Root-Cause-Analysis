@@ -23,14 +23,14 @@
         <sys_created_by>kp.admin</sys_created_by>
         <sys_created_on>2017-11-07 15:41:39</sys_created_on>
         <sys_id>4851d029db9a0300801dfd651d961988</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2018-02-12 18:31:12</sys_updated_on>
+        <sys_updated_on>2018-02-13 16:40:55</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.9</version>
+        <version>1.1.0</version>
     </sys_app>
 </record_update>
