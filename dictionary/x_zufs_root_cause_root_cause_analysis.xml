@@ -12,6 +12,7 @@
         <element label="Problem CI" max_length="32" name="u_problem_ci" reference="cmdb_ci" type="reference"/>
         <element label="Problem Tasks" max_length="32" name="u_problem_tasks" reference="problem_task" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Problem.Priority" max_length="40" name="u_prob_priority" type="string"/>
+        <element label="Ready For Implementation" max_length="40" name="u_ready_implement" type="boolean"/>
         <element choice="1" label="Root Cause Category 1" max_length="40" name="u_root_cause_category_1" type="choice">
             <choice>
                 <element label="Application" sequence="10" value="application"/>
