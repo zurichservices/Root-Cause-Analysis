@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_tech_assignee" table="x_zufs_root_cause_root_cause_analysis">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="work_notes" table="x_zufs_root_cause_root_cause_analysis">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>ref_ac_columns_search=true,ref_ac_columns=email;u_myid;u_gad_id</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation/>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Technical Assignee</column_label>
+        <column_label>Work notes</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
         <defaultsort/>
         <delete_roles/>
-        <dependent>u_assigned_tech_group</dependent>
-        <dependent_on_field>u_assigned_tech_group</dependent_on_field>
+        <dependent/>
+        <dependent_on_field/>
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_tech_assignee</element>
+        <element>work_notes</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="">journal_input</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
+        <max_length>4000</max_length>
         <name>x_zufs_root_cause_root_cause_analysis</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -46,20 +51,20 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>kp.admin</sys_created_by>
-        <sys_created_on>2017-12-08 15:20:31</sys_created_on>
-        <sys_id>b8c57f9fdbfe8300801dfd651d961977</sys_id>
-        <sys_mod_count>27</sys_mod_count>
-        <sys_name>Technical Assignee</sys_name>
+        <sys_created_on>2018-02-14 19:05:54</sys_created_on>
+        <sys_id>6155ba91db5cdb00801dfd651d96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work notes</sys_name>
         <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
         <sys_policy/>
         <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
-        <sys_update_name>sys_dictionary_x_zufs_root_cause_root_cause_analysis_u_tech_assignee</sys_update_name>
+        <sys_update_name>sys_dictionary_x_zufs_root_cause_root_cause_analysis_work_notes</sys_update_name>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2018-02-13 20:02:14</sys_updated_on>
+        <sys_updated_on>2018-02-14 19:05:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>true</use_dependent_field>
+        <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
