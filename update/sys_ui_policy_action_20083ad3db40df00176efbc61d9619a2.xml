@@ -17,7 +17,7 @@
         <sys_updated_by>kp.admin</sys_updated_by>
         <sys_updated_on>2018-02-08 14:11:27</sys_updated_on>
         <table>x_zufs_root_cause_root_cause_analysis</table>
-        <ui_policy display_value="Mandatory Field when State is &quot;Implementation&quot;">9ad93353db32c300801dfd651d9619a2</ui_policy>
+        <ui_policy display_value="RC Mandatory fields when State is &quot;Implementation&quot;">9ad93353db32c300801dfd651d9619a2</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

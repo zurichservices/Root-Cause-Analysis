@@ -17,7 +17,7 @@
         <sys_updated_by>kp.admin</sys_updated_by>
         <sys_updated_on>2017-12-12 15:34:36</sys_updated_on>
         <table>x_zufs_root_cause_root_cause_analysis</table>
-        <ui_policy display_value="Mandatory and read only fields on closed state ">d44e9874db0b4700176efbc61d961975</ui_policy>
+        <ui_policy display_value="RC read only fields on closed or cancelled state ">d44e9874db0b4700176efbc61d961975</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

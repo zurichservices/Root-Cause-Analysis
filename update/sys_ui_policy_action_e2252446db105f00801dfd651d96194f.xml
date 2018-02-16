@@ -2,22 +2,22 @@
 <record_update table="sys_ui_policy_action">
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
         <disabled>true</disabled>
-        <field>u_root_cause_category_2</field>
+        <field>u_assigned_tech_group</field>
         <mandatory>ignore</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>kp.admin</sys_created_by>
-        <sys_created_on>2017-12-12 15:34:44</sys_created_on>
-        <sys_id>b75fd874db0b4700176efbc61d961947</sys_id>
+        <sys_created_on>2018-02-16 16:31:01</sys_created_on>
+        <sys_id>e2252446db105f00801dfd651d96194f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>u_root_cause_category_2</sys_name>
+        <sys_name>u_assigned_tech_group</sys_name>
         <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
         <sys_policy/>
         <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
-        <sys_update_name>sys_ui_policy_action_b75fd874db0b4700176efbc61d961947</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_e2252446db105f00801dfd651d96194f</sys_update_name>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2017-12-12 15:34:44</sys_updated_on>
+        <sys_updated_on>2018-02-16 16:31:01</sys_updated_on>
         <table>x_zufs_root_cause_root_cause_analysis</table>
-        <ui_policy display_value="RC read only fields on closed or cancelled state ">d44e9874db0b4700176efbc61d961975</ui_policy>
+        <ui_policy display_value="Make RC fields read only when problem state is cancelled">1ff3e4c2db105f00801dfd651d961974</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

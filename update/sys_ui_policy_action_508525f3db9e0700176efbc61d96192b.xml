@@ -17,7 +17,7 @@
         <sys_updated_by>kp.admin</sys_updated_by>
         <sys_updated_on>2017-11-15 19:47:07</sys_updated_on>
         <table>x_zufs_root_cause_root_cause_analysis</table>
-        <ui_policy display_value="Make fields read only">e1ce99bfdb5e0700176efbc61d961974</ui_policy>
+        <ui_policy display_value="Make RC fields read only by default">e1ce99bfdb5e0700176efbc61d961974</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

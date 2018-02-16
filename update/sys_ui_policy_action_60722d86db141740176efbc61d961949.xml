@@ -3,21 +3,21 @@
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
         <disabled>ignore</disabled>
         <field>u_root_cause_category_2</field>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>kp.admin</sys_created_by>
-        <sys_created_on>2018-02-13 15:07:59</sys_created_on>
-        <sys_id>1b557c49db50db00801dfd651d961967</sys_id>
+        <sys_created_on>2018-02-16 20:58:55</sys_created_on>
+        <sys_id>60722d86db141740176efbc61d961949</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_root_cause_category_2</sys_name>
         <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
         <sys_policy/>
         <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
-        <sys_update_name>sys_ui_policy_action_1b557c49db50db00801dfd651d961967</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_60722d86db141740176efbc61d961949</sys_update_name>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2018-02-13 15:07:59</sys_updated_on>
+        <sys_updated_on>2018-02-16 20:58:55</sys_updated_on>
         <table>x_zufs_root_cause_root_cause_analysis</table>
-        <ui_policy display_value="RC Mandatory fields when Ready For Implementation is true">1294b849db50db00801dfd651d961965</ui_policy>
+        <ui_policy display_value="RC Categories 2 &amp; 3 not mandatory if RC Category 1 = 'unknown'">be226986db141740176efbc61d961951</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>
