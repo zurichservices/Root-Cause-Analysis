@@ -12,16 +12,16 @@
         <sys_created_by>kp.admin</sys_created_by>
         <sys_created_on>2018-02-14 19:18:19</sys_created_on>
         <sys_id>9b48be91db5cdb00801dfd651d96197e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>glide.ui.x_zufs_root_cause_root_cause_analysis_activity.fields</sys_name>
         <sys_package display_value="Root Cause Analysis" source="x_zufs_root_cause">4851d029db9a0300801dfd651d961988</sys_package>
         <sys_policy/>
         <sys_scope display_value="Root Cause Analysis">4851d029db9a0300801dfd651d961988</sys_scope>
         <sys_update_name>sys_properties_9b48be91db5cdb00801dfd651d96197e</sys_update_name>
         <sys_updated_by>kp.admin</sys_updated_by>
-        <sys_updated_on>2018-02-14 19:18:19</sys_updated_on>
+        <sys_updated_on>2018-02-21 13:30:08</sys_updated_on>
         <type>string</type>
-        <value>u_number,u_problem,u_state,sys_created_on,u_contributing_factors,u_long_term_solution,u_monitoring_details,u_problem_ci,u_problem_tasks,u_problemu_prob_priority,u_root_cause_category_1,u_root_cause_category_2,u_root_cause_category_3,u_assigned_tech_group,u_tech_assignee,u_root_cause_description</value>
+        <value>u_number,u_problem,sys_created_on,u_contributing_factors,u_long_term_solution,u_monitoring_details,u_problem_ci,u_problem_tasks,u_problemu_prob_priority,u_root_cause_category_1,u_root_cause_category_2,u_root_cause_category_3,u_assigned_tech_group,u_tech_assignee,u_root_cause_description</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=9b48be91db5cdb00801dfd651d96197e"/>
